@@ -1,5 +1,7 @@
 # ts-project
 
+> vue-cli3(vue-cli3.0 搭建项目模版 ts+vuex+axios)
+
 ## Project setup
 ```
 npm install
